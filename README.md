@@ -7,3 +7,17 @@
 Sou desenvolvedor {frontend e backend}, hoje trabalho na MTECHSP [@mtechsp](https://www.mtechsp.com.br/).
 
 - [Website](https://davidmagalhaes.site/) 💻 - Em breve.
+- [Whatsapp](https://api.whatsapp.com/send?phone=5585981194215&text=Ol%C3%A1%20David!%20Estou%20no%20seu%20Github%20e%20quero%20tirar%20d%C3%BAvidas.)
+
+### Alguns trabalhos desenvolvidos
+
+- [Clube Digital](https://clubedigital.ong.br/)
+- [DTLab4](https://dtlab4.dtlab.com.br/) (Projeto em Equipe na Mtechsp - ReactJS e Laravel)
+- [Abav Ceará](https://abavceara.com.br/)
+- [Emagropack](http://emagropack.com.br)
+- [Via Naturale](https://vianaturale.com.br)
+- [MTECHSP](https://mtechsp.com.br)
+- [Eventos Afetur](https://agenciaafetur.com.br/eventos)
+- [MF Academy](https://mfacademybrasil.com/) (Em desenvolvimento)
+- [Lâmina Esquadrias](#) (Em desenvolvimento)
+- [Parsa Arquitetura](#) (Em desenvolvimento)
