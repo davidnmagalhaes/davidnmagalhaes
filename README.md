@@ -18,6 +18,8 @@ Sou desenvolvedor {frontend e backend}, hoje trabalho na MTECHSP [@mtechsp](http
 - [Via Naturale](https://vianaturale.com.br)
 - [MTECHSP](https://mtechsp.com.br)
 - [Eventos Afetur](https://agenciaafetur.com.br/eventos)
+- [Conferência Distrito 4490](https://conferenciadistrito4490.com.br/)
+- [XI Viagem da Amizade](https://afetur.com.br/rotary2021)
 - [MF Academy](https://mfacademybrasil.com/) (Em desenvolvimento)
 - [Lâmina Esquadrias](#) (Em desenvolvimento)
 - [Parsa Arquitetura](#) (Em desenvolvimento)
