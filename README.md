@@ -21,5 +21,3 @@ Sou desenvolvedor {Coordenador de Front-end} na MTECHSP [@mtechsp](https://www.m
 - [Conferência Distrito 4490](https://conferenciadistrito4490.com.br/)
 - [XI Viagem da Amizade](https://afetur.com.br/rotary2021)
 - [MF Academy](https://mfacademybrasil.com/)
-- [Lâmina Esquadrias](#) (Em desenvolvimento)
-- [Parsa Arquitetura](#) (Em desenvolvimento)
