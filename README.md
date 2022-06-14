@@ -3,6 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davidnmagalhaes)](https://github.com/davidnmagalhaes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-n-magalhaes//)](https://www.linkedin.com/in/david-n-magalhaes)
 ![Discord](https://img.shields.io/discord/807220787735691285)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
 ### Sobre mim
 Sou {Gerente de TI e desenvolvedor com foco em Front-end} na MTECH [@mtechsp](https://www.mtechsp.com.br/).
 
