@@ -2,12 +2,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-n-magalhaes//)](https://www.linkedin.com/in/david-n-magalhaes)
-![Discord](https://img.shields.io/discord/807220787735691285)
 
 ### Sobre mim
 Sou {Gerente de TI e desenvolvedor com foco em Front-end} na MTECH [@mtechsp](https://www.mtechsp.com.br/).
-
-- [Website](https://davidmagalhaes.site/) 💻 - Em breve.
 - [Whatsapp](https://api.whatsapp.com/send?phone=5585981194215&text=Ol%C3%A1%20David!%20Estou%20no%20seu%20Github%20e%20quero%20tirar%20d%C3%BAvidas.)
 
 ### Alguns trabalhos desenvolvidos
