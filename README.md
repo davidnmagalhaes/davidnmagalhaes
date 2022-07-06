@@ -9,17 +9,15 @@ Sou {Gerente de TI e desenvolvedor com foco em Front-end} na MTECH [@mtechsp](ht
 
 ### Alguns trabalhos desenvolvidos
 
-- [Clube Digital](https://clubedigital.ong.br/)
-- [DTLab4](https://dtlab4.dtlab.com.br/)
-- [Abav Ceará](https://abavceara.com.br/)
+- [MF Academy](https://mfacademybrasil.com/)
+- [Feirão Abav](https://feiraoabav.com.br/)
 - [Emagropack](http://emagropack.com.br)
 - [Via Naturale](https://vianaturale.com.br)
 - [MTECH](https://mtechsp.com.br)
 - [Eventos Afetur](https://agenciaafetur.com.br/eventos)
 - [Conferência Distrito 4490](https://conferenciadistrito4490.com.br/)
-- [MF Academy](https://mfacademybrasil.com/)
 - [LP Mulheres Empreendedoras](https://marcelafabricio.com.br/mulheres-empreendedoras)
-- [Afetur](https://afetur.com.br/)
-- [Feirão Abav](https://feiraoabav.com.br/)
 - [LP Lead Representações](https://leadrepresentacoes.com.br/)
+- [DTLab4](https://dtlab4.dtlab.com.br/)
+- [Abav Ceará](https://abavceara.com.br/)
          
