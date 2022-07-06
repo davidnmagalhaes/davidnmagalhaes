@@ -21,4 +21,5 @@ Sou {Gerente de TI e desenvolvedor com foco em Front-end} na MTECH [@mtechsp](ht
 - [LP Mulheres Empreendedoras](https://marcelafabricio.com.br/mulheres-empreendedoras)
 - [Afetur](https://afetur.com.br/)
 - [Feirão Abav](https://feiraoabav.com.br/)
+- [LP Lead Representações](https://leadrepresentacoes.com.br/)
          
