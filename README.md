@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-n-magalhaes//)](https://www.linkedin.com/in/david-n-magalhaes)
 
 ### Sobre mim
-Sou {Desenvolvedor Front-end} na INOVANDO [@inovan.do](https://www.inovan.do/).
+Sou {Desenvolvedor Fullstack} na INOVANDO [@inovan.do](https://www.inovan.do/).
 - [Whatsapp](https://api.whatsapp.com/send?phone=5585981194215&text=Ol%C3%A1%20David!%20Estou%20no%20seu%20Github%20e%20quero%20tirar%20d%C3%BAvidas.)
 
 ### Alguns trabalhos desenvolvidos
