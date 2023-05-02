@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Magalhães</h1>
-<p align="center">I'm a fullstack programmer! I have experience working with Javascript Tecnologies. Today i'm working at Inovan.do since 07/2022.</p>
+<p align="center">
+I'm a Fullstack programmer at Inovan.do! I have experience with Javascript technologies, and I am passionate about what I do. I practice and learn every day with a total focus on developing quality projects.</p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left" >
