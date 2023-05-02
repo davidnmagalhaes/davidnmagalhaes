@@ -11,15 +11,15 @@
 
 <h3>Some Jobs:</h3>
 <p align="left">
-- [MF Academy](https://mfacademybrasil.com/)
-- [Feirão Abav](https://feiraoabav.com.br/)
-- [Emagropack](http://emagropack.com.br)
-- [Via Naturale](https://vianaturale.com.br)
-- [MTECH](https://mtechsp.com.br)
-- [Eventos Afetur](https://agenciaafetur.com.br/eventos)
-- [Conferência Distrito 4490](https://conferenciadistrito4490.com.br/)
-- [LP Mulheres Empreendedoras](https://marcelafabricio.com.br/mulheres-empreendedoras)
-- [LP Lead Representações](https://leadrepresentacoes.com.br/)
+- [MF Academy](https://mfacademybrasil.com/)</br>
+- [Feirão Abav](https://feiraoabav.com.br/)</br>
+- [Emagropack](http://emagropack.com.br)</br>
+- [Via Naturale](https://vianaturale.com.br)</br>
+- [MTECH](https://mtechsp.com.br)</br>
+- [Eventos Afetur](https://agenciaafetur.com.br/eventos)</br>
+- [Conferência Distrito 4490](https://conferenciadistrito4490.com.br/)</br>
+- [LP Mulheres Empreendedoras](https://marcelafabricio.com.br/mulheres-empreendedoras)</br>
+- [LP Lead Representações](https://leadrepresentacoes.com.br/)</br>
 - [Abav Ceará](https://abavceara.com.br/)
 </p>
 
