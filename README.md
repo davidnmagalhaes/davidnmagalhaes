@@ -9,6 +9,7 @@
 
 <h2>Some Jobs:</h2>
 <p align="left">
+- Márgara Castro Alves (https://margaracastroalves.com.br/)</br>
 - MF Academy (https://mfacademybrasil.com/)</br>
 - Feirão Abav (https://feiraoabav.com.br/)</br>
 - Emagropack (http://emagropack.com.br)</br>
