@@ -11,6 +11,7 @@ I'm a Fullstack programmer at Inovan.do! I'm from Fortaleza/CE, and I have exper
 <h2>Some Jobs:</h2>
 <p align="left">
 - Márgara Castro Alves (https://margaracastroalves.com.br/)</br>
+- Emagrocut (https://emagrocut.com.br)</br>
 - MF Academy (https://mfacademybrasil.com/)</br>
 - Feirão Abav (https://feiraoabav.com.br/)</br>
 - Emagropack (http://emagropack.com.br)</br>
